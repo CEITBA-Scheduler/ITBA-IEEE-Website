@@ -3,3 +3,7 @@
     text-align: center;
     justify-content: center;
 }
+
+.global-container{
+  width:100%;
+}
