@@ -1,3 +1,7 @@
 .text-content{
-    max-width: 400px;
+    max-width: 1000px;
+    padding: 100px;
+}
+.global-container{
+  width:100%;
 }
