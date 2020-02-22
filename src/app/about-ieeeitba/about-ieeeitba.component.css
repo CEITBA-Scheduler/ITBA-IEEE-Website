@@ -1,9 +1,9 @@
 .text-content{
-    padding: 0% 20%; /*  0% <--> TOP/BOTTOM     20% <--> LEFT/RIGHT  */
+    padding: 100px 20% 0 20%; /* TOP RIGHT BOTTOM LEFT, info: https://www.w3schools.com/css/css_padding.asp */
     text-align: center;
     justify-content: center;
 }
 
 .global-container{
-  width:100%;
+    width:100%;
 }
