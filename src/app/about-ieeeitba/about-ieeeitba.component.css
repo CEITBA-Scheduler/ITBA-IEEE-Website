@@ -1,5 +1,5 @@
 .text-content{
-    padding: 100px 20% 0 20%; /* TOP RIGHT BOTTOM LEFT, info: https://www.w3schools.com/css/css_padding.asp */
+    padding: 130px 20% 0 20%; /* TOP RIGHT BOTTOM LEFT, info: https://www.w3schools.com/css/css_padding.asp */
     text-align: center;
     justify-content: center;
 }

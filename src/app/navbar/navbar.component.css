@@ -1,5 +1,7 @@
-.dropdown-menu {
-    width: 400px !important;
-}
 .middle {
+    justify-content: center;
+}
+
+.img-container {
+    display: block;
 }
