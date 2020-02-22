@@ -1,3 +1,5 @@
 .text-content{
-    max-width: 400px;
+    padding: 0% 20%; /*  0% <--> TOP/BOTTOM     20% <--> LEFT/RIGHT  */
+    text-align: center;
+    justify-content: center;
 }
